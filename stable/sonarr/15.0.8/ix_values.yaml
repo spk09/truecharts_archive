@@ -1,7 +1,7 @@
 image:
-  repository: tccr.io/truecharts/sonarr
+  repository: linuxserver/sonarr
   pullPolicy: IfNotPresent
-  tag: 3.0.9.1549@sha256:294b6288d91346f6e65f8cb344b42d17c97b3ee7ada501d77307088f79a8dc15
+  tag: version-3.0.9.1549
 service:
   main:
     ports:
