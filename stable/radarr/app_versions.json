@@ -1,9 +1,9 @@
 {
-    "13.0.5": {
+    "13.0.15.rc2": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/radarr/13.0.5",
+        "location": "/home/runner/_work/catalog/catalog/stable/radarr/13.0.15.rc2",
         "last_update": "2024-05-29 12:35:14",
         "required_features": [
             "definitions/timezone",
@@ -12,8 +12,8 @@
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
-        "human_version": "4.3.2.6857_13.0.5",
-        "version": "13.0.5",
+        "human_version": "4.3.2.6857_13.0.15.rc2",
+        "version": "13.0.15.rc2",
         "chart_metadata": {
             "apiVersion": "v2",
             "appVersion": "4.3.2.6857",
