@@ -1,7 +1,7 @@
 image:
   repository: linuxserver/radarr
   pullPolicy: IfNotPresent
-  tag: 4.3.2.6857
+  tag: version-4.3.2.6857
 
 securityContext:
   readOnlyRootFilesystem: false
